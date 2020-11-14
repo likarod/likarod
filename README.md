@@ -19,8 +19,20 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - ⚡ Dato curioso: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
 
 ## Soft skills
+- Me gusta explorar mi creatividad 🤹‍♀️
+- Apuesto por los proyectos innovadores 🔬
+- Pensamiento crítico. 🔎
+- Resolutiva ante los problemas.🗝
+- Trabajo en equipo.👩🏿‍🤝‍🧑🏿
+- Capacidad de concentración. 🏹
+- Me encanta la organización y el detalle.📅
+- Adaptable ante los cambios.⌛
+- Me gusta mejorar siempre mi productividad y buscar herramientas para ello. ✍
+- Altamente responsable.🧐
+- Proactiva ante las adversidades. 💪
 
-
+## Diseño
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ## Tecnologías 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -43,8 +55,6 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 ![firebase](https://img.shields.io/badge/_-firebase-292e33?style=flat-square&logo=firebase&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) 
 
-## Diseño
-<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
 
