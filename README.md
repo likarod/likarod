@@ -1,6 +1,5 @@
 ### Hola 👋, Mi nombre es Lina Katherine.
 #### ✨ Soy una Junior Fullstack Developer ✨
-![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=800&h=800&fm=png)
 
 ## Sobre mí 🐱‍🏍
 
@@ -61,6 +60,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 ## Encuéntrame en el mundo 🌎
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LiKatRod)  
 
+![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=800&h=800&fm=png)
 <!--
 **Likaro-nav/Likaro-nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
