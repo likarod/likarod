@@ -15,7 +15,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - 🌱 Estoy aprendiendo un poco sobre patrones de diseño UX/UI 🎨 también en profundizar en Scrum Agile ⚙ y avanzar mis conocimientos de React 🌌
 - 💬 Pregúntame acerca de qué tipo de anime quieres hacer un maratón. Créeme sé bastante 😏 
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
-- 😄 Pronombres: Puedes llamarme Linis o Linuski. 
+- 😄 Pronombres: [She/her]
 - ⚡ Dato curioso: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
 
 ## Soft skills
