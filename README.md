@@ -1,6 +1,9 @@
 ### Hola 👋, Mi nombre es Lina Katherine.
-#### ✨ Soy una Junior Fullstack Developer ✨
-![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=400&h=400&fm=png)
+#### ✨ Soy una Junior Fullstack Developer ✨                                                     
+![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=400&h=400&fm=png)                      
+## Encuéntrame en el mundo 🌎
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LiKatRod)  
+
 
 ## Sobre mí 🐱‍🏍
 
@@ -11,12 +14,14 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 👀 Puedes consultar mis repositorios, que están en fase de construcción. Así que, cualquier feedback amable será bien recibido 🤗
 
 
-- 🔭 Estoy trabajando en mejorar mis repositorios.  
-- 🌱 Estoy aprendiendo un poco sobre patrones de diseño UX/UI 🎨, mejorar mis conocimientos de React 🌌 y aprender C# y Typescript. 🔎
-- 🤔 Estoy buscando ayuda en #testing y en JAMSTACK.
+<!--- 🔭 Estoy trabajando en mejorar mis repositorios. --->
+- 🌱 Estoy aprendiendo sobre Prduct Design🎨, mejorar mis conocimientos sobre desarrollo 🌌 y los conocimientos básicos sobre C#. 🔎 (Más adelante me gustaría poder trabajar con proyectos donde pudiesen incorporar .Net, por eso estoy aprendiendo sobre este lenguaje)
+- 🤔 Estoy buscando ayuda en mejorar mis conocimientos de algoritmia y aprender más sobre CLEAN CODE.
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
-- 😄 Pronombres: [She/her]
-- ⚡ Dato curioso: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
+- 😄 Pronombres: [Ella/She/her]
+- ⚡ Datos curiosos 
+      - 1: En mis tiempos libres me gusta realizar bocetos con carboncillo o grafito. Estoy aprendiendo para pasarlos a digital.
+      - 2: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
 
 ## Soft skills
 - Me gusta explorar mi creatividad 🤹‍♀️
@@ -55,9 +60,6 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
-
-## Encuéntrame en el mundo 🌎
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LiKatRod)  
 
 <!--
 **Likaro-nav/Likaro-nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
