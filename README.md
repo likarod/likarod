@@ -38,10 +38,11 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Proactiva ante las adversidades. 💪
 
 ## Herramientas de trabajo.
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fproject-management.com%2Fnotion-software-review%2F&psig=AOvVaw2H4-AANF9UqhCtqWCUrvnE&ust=1613209893845000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCD56iJ5O4CFQAAAAAdAAAAABAD"/>
+<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl"/>
 
 ## Diseño
-Aprendiendo a desenvolverme en <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+Aprendiendo a desenvolverme en 
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ## Tecnologías 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
