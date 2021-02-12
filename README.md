@@ -15,13 +15,14 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 
 
 <!--- 🔭 Estoy trabajando en mejorar mis repositorios. --->
-- 🌱 Estoy aprendiendo sobre Prduct Design🎨, mejorar mis conocimientos sobre desarrollo 🌌 y los conocimientos básicos sobre C#. 🔎 (Más adelante me gustaría poder trabajar con proyectos donde pudiesen incorporar .Net, por eso estoy aprendiendo sobre este lenguaje)
+- 🌱 Estoy aprendiendo sobre diseño UI🎨, mejorar mis conocimientos en Javascript 🌌 y conociendo la POO con PHP 🐘 
 - 🤔 Estoy buscando ayuda en mejorar mis conocimientos de algoritmia y aprender más sobre CLEAN CODE.
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - 😄 Pronombres: [Ella/She/her]
 - ⚡ Datos curiosos 
-      - 1: En mis tiempos libres me gusta realizar bocetos con carboncillo o grafito. Estoy aprendiendo para pasarlos a digital.
+      - 1: En mis tiempos libres me gusta realizar bocetos con carboncillo o grafito. Estoy en el proceso de pasarlos a fomato digital.
       - 2: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
+      - 3: Soy una fan del yoga 🧘🏽‍♀️
 
 ## Soft skills
 - Me gusta explorar mi creatividad 🤹‍♀️
@@ -36,8 +37,11 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Altamente responsable.🧐
 - Proactiva ante las adversidades. 💪
 
+## Herramientas de trabajo.
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fproject-management.com%2Fnotion-software-review%2F&psig=AOvVaw2H4-AANF9UqhCtqWCUrvnE&ust=1613209893845000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCD56iJ5O4CFQAAAAAdAAAAABAD"/>
+
 ## Diseño
-<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+Aprendiendo a desenvolverme en <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 ## Tecnologías 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
