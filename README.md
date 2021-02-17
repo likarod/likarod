@@ -3,8 +3,8 @@
 Encuéntrame por el mundo 🌎: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/linaklarrearod//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/LiKatRod)  
 
-### Sobre mí 🐱‍🏍
-🐱‍💻 Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
+### Sobre mí
+Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
 - 😄 Pronombres: [Ella/She/her]
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
