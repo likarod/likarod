@@ -11,7 +11,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 
 🐱‍💻 Realicé un Bootcamp con más de 500h de práctica y 400h de teoría de Fullstack Developer. Lo cual me ha dado una visión de todas las fases del desarrollo
 
-👀 Puedes consultar mis repositorios, que están en fase de construcción. Así que, cualquier feedback amable será bien recibido 🤗
+👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
 
 <!--- 🔭 Estoy trabajando en mejorar mis repositorios. --->
@@ -19,10 +19,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - 🤔 Estoy buscando ayuda en mejorar mis conocimientos de algoritmia y aprender más sobre CLEAN CODE.
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - 😄 Pronombres: [Ella/She/her]
-- ⚡ Datos curiosos 
-      - 1: En mis tiempos libres me gusta realizar bocetos con carboncillo o grafito. Estoy en el proceso de pasarlos a fomato digital.
-      - 2: Mis gatos se llaman Isis, Horus (como los dioses egipcios) y Leónidas (cómo el rey de Esparta) 😺 
-      - 3: Soy una fan del yoga 🧘🏽‍♀️
+- ⚡ Datos curiosos: Yogui fan 🧘🏽‍♀️, mother of 3 😺 and sketches ✏️
 
 ## Soft skills
 - Explorar mi creatividad 🤹‍♀️
@@ -38,7 +35,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Proactiva ante las adversidades. 💪
 
 ## Herramientas de trabajo.
-<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='150'/>
+<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='130'/>
 
 <!--
 ## Diseño
