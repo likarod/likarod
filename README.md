@@ -1,10 +1,9 @@
-### Hola 👋, Mi nombre es Lina Katherine, ✨ junior Developer ✨ 
-![✨ Junior Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png)                                                                          
+## Hola 👋, Mi nombre es Lina Katherine, ✨ junior Developer ✨ 
+![✨ Junior Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png)                                                             
 Encuéntrame por el mundo 🌎: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/linaklarrearod//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/LiKatRod)  
 
-#### Sobre mí 🐱‍🏍
----
+### Sobre mí 🐱‍🏍
 🐱‍💻 Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
 - 😄 Pronombres: [Ella/She/her]
