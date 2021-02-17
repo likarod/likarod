@@ -1,11 +1,10 @@
-### Hola 👋, Mi nombre es Lina Katherine.
-#### ✨ Soy una Junior Fullstack Developer ✨                                                     
-![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=200&h=200&fm=png)                      
-## Encuéntrame en el mundo 🌎
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/LiKatRod)  
+### Hola 👋, Mi nombre es Lina Katherine, ✨ junior Developer ✨ ![✨ Junior Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png)                                                                          
+##### Encuéntrame por el mundo 🌎
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/https://github.com/Likaro-nav)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/https://twitter.com/LiKatRod)  
 
-
-## Sobre mí 🐱‍🏍
+##### Sobre mí 🐱‍🏍
 
 🐱‍💻 Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
@@ -13,7 +12,7 @@
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - ⚡ Datos curiosos: Yogui fan 🧘🏽‍♀️, mother of 3 😺 and sketches ✏️
 
-## Soft skills
+##### Soft skills
 - Apuesto por los proyectos innovadores 🔬
 - Pensamiento crítico. 🔎
 - Resolutiva ante los problemas.🗝
@@ -24,7 +23,7 @@
 - Mejora continua. ✍
 - Proactiva ante las adversidades. 💪
 
-## Herramientas de productividad.
+##### Herramientas de productividad.
 <img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='130'/>
 
 <!--
@@ -32,7 +31,7 @@
 Aprendiendo a desenvolverme en 
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alf/> -->
 
-## Tecnologías 🛠
+##### Tecnologías 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
