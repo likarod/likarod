@@ -2,7 +2,7 @@
 #### ✨ Soy una Junior Fullstack Developer ✨                                                     
 ![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=400&h=400&fm=png)                      
 ## Encuéntrame en el mundo 🌎
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LiKatRod)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/LiKatRod)  
 
 
 ## Sobre mí 🐱‍🏍
@@ -15,7 +15,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 
 
 <!--- 🔭 Estoy trabajando en mejorar mis repositorios. --->
-- 🌱 Estoy aprendiendo sobre diseño UI🎨, mejorar mis conocimientos en Javascript 🌌 y conociendo la POO con PHP 🐘 
+- 🌱 Estoy aprendiendo sobre diseño UI🎨, mejorar mis conocimientos en Javascript 🌌 y PHP 🐘 
 - 🤔 Estoy buscando ayuda en mejorar mis conocimientos de algoritmia y aprender más sobre CLEAN CODE.
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - 😄 Pronombres: [Ella/She/her]
@@ -25,7 +25,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
       - 3: Soy una fan del yoga 🧘🏽‍♀️
 
 ## Soft skills
-- Me gusta explorar mi creatividad 🤹‍♀️
+- Explorar mi creatividad 🤹‍♀️
 - Apuesto por los proyectos innovadores 🔬
 - Pensamiento crítico. 🔎
 - Resolutiva ante los problemas.🗝
@@ -38,11 +38,12 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Proactiva ante las adversidades. 💪
 
 ## Herramientas de trabajo.
-<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl"/>
+<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='20'/>
 
+<!--
 ## Diseño
 Aprendiendo a desenvolverme en 
-<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alf/> -->
 
 ## Tecnologías 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
