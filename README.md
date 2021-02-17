@@ -7,14 +7,13 @@
 
 ## Sobre mí 🐱‍🏍
 
-🐱‍💻 Geógrafa recién graduada del bootcamp de Full Stack Web Developer en ![The Bridge - Digital Talent Acelerator](https://www.linkedin.com/school/the-bridge-digital-talent-accelerator/). 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
+🐱‍💻 Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
 - 😄 Pronombres: [Ella/She/her]
 - 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - ⚡ Datos curiosos: Yogui fan 🧘🏽‍♀️, mother of 3 😺 and sketches ✏️
 
 ## Soft skills
-- Explorar mi creatividad 🤹‍♀️
 - Apuesto por los proyectos innovadores 🔬
 - Pensamiento crítico. 🔎
 - Resolutiva ante los problemas.🗝
@@ -22,8 +21,7 @@
 - Capacidad de concentración. 🏹
 - Me encanta la organización y el detalle.📅
 - Adaptable ante los cambios.⌛
-- Me gusta mejorar siempre mi productividad y buscar herramientas para ello. ✍
-- Altamente responsable.🧐
+- Mejora continua. ✍
 - Proactiva ante las adversidades. 💪
 
 ## Herramientas de productividad.
