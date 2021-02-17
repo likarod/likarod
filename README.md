@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Lina Katherine.
 #### ✨ Soy una Junior Fullstack Developer ✨                                                     
-![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=400&h=400&fm=png)                      
+![✨ Junior Fullstack Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=200&h=200&fm=png)                      
 ## Encuéntrame en el mundo 🌎
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/Likaro-nav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/linaklarrearod//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://twitter.com/LiKatRod)  
 
@@ -38,7 +38,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Proactiva ante las adversidades. 💪
 
 ## Herramientas de trabajo.
-<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='20'/>
+<img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='150'/>
 
 <!--
 ## Diseño
