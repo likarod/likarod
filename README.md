@@ -7,18 +7,10 @@
 
 ## Sobre mí 🐱‍🏍
 
-Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrara en un curso de Javascript y desde ahí🤓 ... no quise parar. 🤩
+🐱‍💻 Geógrafa recién graduada del bootcamp de Full Stack Web Developer en ![The Bridge - Digital Talent Acelerator](https://www.linkedin.com/school/the-bridge-digital-talent-accelerator/). 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
-🐱‍💻 Realicé un Bootcamp con más de 500h de práctica y 400h de teoría de Fullstack Developer. Lo cual me ha dado una visión de todas las fases del desarrollo
-
-👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
-
-
-<!--- 🔭 Estoy trabajando en mejorar mis repositorios. --->
-- 🌱 Estoy aprendiendo sobre diseño UI🎨, mejorar mis conocimientos en Javascript 🌌 y PHP 🐘 
-- 🤔 Estoy buscando ayuda en mejorar mis conocimientos de algoritmia y aprender más sobre CLEAN CODE.
-- 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - 😄 Pronombres: [Ella/She/her]
+- 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
 - ⚡ Datos curiosos: Yogui fan 🧘🏽‍♀️, mother of 3 😺 and sketches ✏️
 
 ## Soft skills
@@ -34,7 +26,7 @@ Tres meses de cuarentena, un ordenador, Internet y mi curiosidad hizo que entrar
 - Altamente responsable.🧐
 - Proactiva ante las adversidades. 💪
 
-## Herramientas de trabajo.
+## Herramientas de productividad.
 <img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='130'/>
 
 <!--
@@ -62,9 +54,9 @@ Aprendiendo a desenvolverme en
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
 **Likaro-nav/Likaro-nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
