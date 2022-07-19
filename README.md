@@ -1,37 +1,33 @@
-## Hola 👋
-Mi nombre es Lina Katherine, ✨ Jr Front-End Developer ✨ 
-
-![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png)                                                             
-Encuéntrame por el mundo 🌎: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/linaklarrearod//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/LiKatRod)  
-
+## Welcome 👋🏼 👋🏼 
+                                                               
 ### Sobre mí
-Geógrafa y programadora Full Stack Web Developer. 👀 Puedes consultar mis repositorios, que están en fase de construcción. Cualquier feedback amable será bien recibido 🤗
 
-- 😄 Pronombres: [Ella/She/her]
-- 📫 Cómo contactarme: Escríbeme a [mi email](linak.larrea@gmail.com)  
-- ⚡ Datos curiosos: Yogui fan 🧘🏽‍♀️, mother of 3 😺 and sketches ✏️
+![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png) I'm Lina Katherine.
+
+Geography and Junior Full-Sack Web Developer with one year of experience in FrontEnd development and team management. I am interested in user-centered and accessible projects. Thanks to my background as a researcher and project time manager, I had the opportunity to work in the Product department. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers.
+
+ 
+- 😄 Pronouns: [She/She/her].
+- 📫 How to contact me: Write me at [my email](linak.larrea@gmail.com)
+- 🌎 Social Network: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/linaklarrearod//) 
+
+##### What I do:
+- Frontend Development.
+- Web Layout.
+- Sprint and time management.
+- Digital team monitoring.  
 
 ##### Soft skills
-- Apuesto por los proyectos innovadores 🔬
-- Pensamiento crítico. 🔎
-- Resolutiva ante los problemas.🗝
-- Trabajo en equipo.👩🏿‍🤝‍🧑🏿
-- Capacidad de concentración. 🏹
-- Me encanta la organización y el detalle.📅
-- Adaptable ante los cambios.⌛
-- Mejora continua. ✍
-- Proactiva ante las adversidades. 💪
+- Critical thinking. 🔎
+- I love teamwork.👩🏿🤝🧑🏿
+- I love organization and detail.📅
+- Continuous improvement. ✍
 
-##### Herramientas de productividad.
+##### Productivity tools
 <img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='130'/>
 
-<!--
-## Diseño
-Aprendiendo a desenvolverme en 
-<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alf/> -->
-
-##### Tecnologías 🛠
+##### Tech Stack 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -51,11 +47,14 @@ Aprendiendo a desenvolverme en
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
-**Likaro-nav/Likaro-nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Diseño
+Aprendiendo a desenvolverme en 
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alf/> -->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
