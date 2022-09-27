@@ -21,7 +21,7 @@ Geography and Junior Full-Sack Web Developer with one year of experience in Fron
 ##### Soft skills
 - Critical thinking. 🔎
 - I love teamwork.👩🏿🤝🧑🏿
-- I love organization and detail.📅
+- I love organization 📅
 - Continuous improvement. ✍
 
 ##### Productivity tools
