@@ -1,6 +1,6 @@
 ## Welcome 👋🏼 👋🏼 
                                                                
-### Sobre mí
+### About me 
 
 ![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png) I'm Lina Katherine.
 
