@@ -47,8 +47,6 @@ Geography and Junior Full-Sack Web Developer with one year of experience in Fron
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Likaro-nav&hide=TeX&layout=compact)
-
 <!--
 ## Diseño
 Aprendiendo a desenvolverme en 
