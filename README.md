@@ -4,7 +4,7 @@
 
 ![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png) I'm Lina Katherine.
 
-Geography and Junior Full-Sack Web Developer with one year of experience in FrontEnd development and team management. I am interested in user-centered and accessible projects. Thanks to my background as a researcher and project time manager, I had the opportunity to work in the Product department. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers.
+Geography and Jr Full-Sack Web Developer with one year of experience in Front-End development and team management. I am interested in user-centered and accessible projects. Thanks to my background as a researcher and project manager, I had the opportunity to work in the Product department. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers.
 
  
 - 😄 Pronouns: [She/She/her].
@@ -19,10 +19,10 @@ Geography and Junior Full-Sack Web Developer with one year of experience in Fron
 - Digital team monitoring.  
 
 ##### Soft skills
-- Critical thinking. 🔎
-- I love teamwork.👩🏿🤝🧑🏿
-- I love organization 📅
-- Continuous improvement. ✍
+- Critical thinking. 
+- I love teamwork.
+- I love organization 
+- Continuous improvement. 
 
 ##### Productivity tools
 <img src="https://miro.medium.com/max/450/0*sAnt5dX9cGTI9ltl" alt="notion" height='130'/>
