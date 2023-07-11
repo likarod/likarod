@@ -7,9 +7,9 @@
 Geography and Jr Full-Sack Web Developer with one year of experience in Front-End development and team management. I am interested in user-centered and accessible projects. Thanks to my background as a researcher and project manager, I had the opportunity to work in the Product department. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers.
 
  
-- 😄 Pronouns: [She/She/her].
-- 📫 How to contact me: Write me at [my email](linak.larrea@gmail.com)
-- 🌎 Social Network: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
+- Pronouns: [She/She/her].
+- How to contact me: Write me at [my email](linak.larrea@gmail.com)
+- Social Network: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/Likaro-nav)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/linaklarrearod//) 
 
 ##### What I do:
