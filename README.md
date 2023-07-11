@@ -4,8 +4,7 @@
 
 ![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png) I'm Lina Katherine.
 
-Geography and Jr Full-Sack Web Developer with one year of experience in Front-End development and team management. I am interested in user-centered and accessible projects. Thanks to my background as a researcher and project manager, I had the opportunity to work in the Product department. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers.
-
+Two years of experience in the IT sector, both in the role of front-end developer and digital project coordinator in the product department of a startup. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers. I am interested in user-centered and accessible projects. Projects designed to solve real problems of the people.
  
 - Pronouns: [She/She/her].
 - How to contact me: Write me at [my email](linak.larrea@gmail.com)
@@ -15,13 +14,11 @@ Geography and Jr Full-Sack Web Developer with one year of experience in Front-En
 ##### What I do:
 - Frontend Development.
 - Web Layout.
-- Sprint and time management.
 - Digital team monitoring.  
 
 ##### Soft skills
 - Critical thinking. 
-- I love teamwork.
-- I love organization 
+- I love teamwork. 
 - Continuous improvement. 
 
 ##### Productivity tools
