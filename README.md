@@ -3,8 +3,6 @@
 ### About me 
 
 ![✨ Junior Front-End Developer ✨](https://blush.design/api/download?shareUri=Kxta4yzv4&w=100&h=100&fm=png) I'm Lina Katherine.
-
-Two years of experience in the IT sector, both in the role of front-end developer and digital project coordinator in the product department of a startup. I coordinated 5 digital projects simultaneously and monitored 3 teams formed of 5 people each, between designers and developers. I am interested in user-centered and accessible projects. Projects designed to solve real problems of the people.
  
 - Pronouns: [She/She/her].
 - How to contact me: Write me at [my email](linak.larrea@gmail.com)
